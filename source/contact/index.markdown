@@ -14,7 +14,7 @@ footer: false
 <address>The General Manager (Design & Development)<br>
 B-446, Stage-I, Peenya Industrial Estate<br>
 Peenya, Bangalore, India 560 058<br>
-Phone:+91-80-2372-3260<br>
+Phone:+91-80-23645565<br>
 Email: {% email projects@technodevelop.com %}
 </address>
 </p> 
